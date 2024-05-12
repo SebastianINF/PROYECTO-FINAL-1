@@ -7,8 +7,8 @@
     <ProjectGuid>{640EA405-50B4-4E66-8EE2-15FFA714C012}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Proyecto_Final_1</RootNamespace>
-    <AssemblyName>Proyecto Final 1</AssemblyName>
+    <RootNamespace>final_project_files_1</RootNamespace>
+    <AssemblyName>final_project_files_1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
